@@ -4,9 +4,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "{{main}}",
+  "main": "dist/auth-provider.js",
   "module": "src/auth-provider.mjs",
-  "description": "provide credentials from subversion keytar",
+  "description": "provide credentials from keytar",
   "keywords": [
     "npm-package-template"
   ],
@@ -75,6 +75,5 @@
     "repository": {
       "url": "https://github.com/arlac77/npm-package-template.git"
     }
-  },
-  "index": "dist/auth-provider.mjs"
+  }
 }
