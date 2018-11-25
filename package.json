@@ -1,0 +1,9 @@
+{
+  "name": "keytar-auth-provider",
+  "description": "provide credentials from subversion keytar",
+  "index": "dist/auth-provider.mjs",
+  "module": "src/auth-provider.mjs",
+  "dependencies": {
+    "keytar": "^4.3.0"
+  }
+}
