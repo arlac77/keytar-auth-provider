@@ -31,7 +31,7 @@
     "keytar": "^4.3.0"
   },
   "devDependencies": {
-    "documentation": "^9.0.0",
+    "documentation": "^9.1.0",
     "markdown-doctest": "^0.9.1",
     "ava": "^1.0.1",
     "c8": "^3.2.1",
