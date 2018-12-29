@@ -8,7 +8,6 @@
   "module": "src/auth-provider.mjs",
   "description": "provide credentials from keytar",
   "keywords": [
-    "npm-package-template",
     "auth-provider"
   ],
   "contributors": [
