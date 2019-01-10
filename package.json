@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "dist/auth-provider.js",
+  "main": "src/auth-provider.mjs",
   "module": "src/auth-provider.mjs",
   "description": "provide credentials from keytar",
   "keywords": [
@@ -21,7 +21,7 @@
     "cover": "c8 --temp-directory build/coverage ava && c8 report -r lcov --temp-directory build/coverage",
     "docs": "documentation readme src/auth-provider.mjs --section=API",
     "lint": "documentation lint src/auth-provider.mjs",
-    "posttest": "markdown-doctest && npm run prepare",
+    "posttest": "markdown-doctest",
     "test": "ava"
   },
   "dependencies": {
