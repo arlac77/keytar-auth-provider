@@ -4,7 +4,6 @@
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Build Status](https://secure.travis-ci.org/arlac77/keytar-auth-provider.png)](http://travis-ci.org/arlac77/keytar-auth-provider)
 [![codecov.io](http://codecov.io/github/arlac77/keytar-auth-provider/coverage.svg?branch=master)](http://codecov.io/github/arlac77/keytar-auth-provider?branch=master)
-[![Coverage Status](https://coveralls.io/repos/arlac77/keytar-auth-provider/badge.svg)](https://coveralls.io/r/arlac77/keytar-auth-provider)
 [![Known Vulnerabilities](https://snyk.io/test/github/arlac77/keytar-auth-provider/badge.svg)](https://snyk.io/test/github/arlac77/keytar-auth-provider)
 [![GitHub Issues](https://img.shields.io/github/issues/arlac77/keytar-auth-provider.svg?style=flat-square)](https://github.com/arlac77/keytar-auth-provider/issues)
 [![Stories in Ready](https://badge.waffle.io/arlac77/keytar-auth-provider.svg?label=ready&title=Ready)](http://waffle.io/arlac77/keytar-auth-provider)
