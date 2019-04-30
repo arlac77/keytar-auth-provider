@@ -1,5 +1,5 @@
 import test from "ava";
-import { KeyTarAuthProvider } from "../src/auth-provider";
+import { KeyTarAuthProvider } from "../src/auth-provider.mjs";
 
 
 test("has values", async t => {
