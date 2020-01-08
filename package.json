@@ -24,7 +24,8 @@
     "docs": "documentation readme src/auth-provider.mjs --section=API",
     "lint": "documentation lint src/auth-provider.mjs",
     "posttest": "markdown-doctest",
-    "test": "ava"
+    "test": "ava",
+    "prepare": "rollup -c"
   },
   "dependencies": {
     "keytar": "^5.0.0"
