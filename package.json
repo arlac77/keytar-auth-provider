@@ -27,7 +27,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "keytar": "^5.0.0"
+    "keytar": "^5.1.0"
   },
   "devDependencies": {
     "ava": "^2.4.0",
