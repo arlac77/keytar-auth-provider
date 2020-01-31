@@ -1,0 +1,10 @@
+{
+  "name": "keytar-auth-provider",
+  "description": "provide credentials from keytar",
+  "icons": [
+    {
+      "src": "facicon.ico",
+      "sizes": "16x16"
+    }
+  ]
+}
