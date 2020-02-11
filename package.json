@@ -26,7 +26,7 @@
     "test": "ava --timeout 2m"
   },
   "dependencies": {
-    "keytar": "^5.1.0"
+    "keytar": "^5.2.0"
   },
   "devDependencies": {
     "ava": "^3.3.0",
