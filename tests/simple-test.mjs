@@ -7,5 +7,6 @@ test("has values", async t => {
 
   const credentials = await authProvider.provideCredentials("a/realmid");
 
+  //console.log(await credentials.password);
   t.is(credentials.user, "arlac77");
 });

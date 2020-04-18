@@ -26,7 +26,7 @@
     "lint": "documentation lint src/auth-provider.mjs"
   },
   "dependencies": {
-    "keytar": "^5.4.0"
+    "keytar": "^5.5.0"
   },
   "devDependencies": {
     "ava": "^3.7.0",
