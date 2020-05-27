@@ -8,8 +8,7 @@
   "type": "module",
   "main": "./src/auth-provider.mjs",
   "exports": {
-    ".": "./src/auth-provider.mjs",
-    "./": "./"
+    ".": "./src/auth-provider.mjs"
   },
   "description": "provide credentials from keytar",
   "keywords": [
