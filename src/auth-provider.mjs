@@ -5,15 +5,14 @@ import keytar from "keytar";
  *
  */
 export class KeyTarAuthProvider {
-  constructor(options = {}) {
-  }
+  constructor(options = {}) {}
 
   /**
    * @param {string} realm
    @ @return {Object} credentials
    */
   async provideCredentials(realm) {
-      const [account, service] = realm.split(/\//);
-      return { password: keytar.getPassword(account, service) };
-    }
+    const [account, service] = realm.split(/\//);
+    return { password: keytar.getPassword(account, service) };
+  }
 }
