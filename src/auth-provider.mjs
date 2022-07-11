@@ -16,3 +16,5 @@ export class KeyTarAuthProvider {
     return { password: keytar.getPassword(account, service) };
   }
 }
+
+export default KeyTarAuthProvider;
